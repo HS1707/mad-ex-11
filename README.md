@@ -17,7 +17,7 @@ Android Studio(Latest Version)
 ```
 /*
 Program to display animation operation”.
-Developed by: HARIHARA S
+Developed by: HARIHARAN S
 Registeration Number : 212221220016
 */
 ```
